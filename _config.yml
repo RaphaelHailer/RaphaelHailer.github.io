@@ -8,10 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Raphael Alves Hailer / Site Title"
+title                    : "Raphael Alves Hailer"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Raphael Alves Hailer"
+description              : &description "Ingénieur ENSTA Paris, with specialization in space sciente at technology at École Polytechnique
+wgrgw"
 url                      : https://RaphaelHailer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
