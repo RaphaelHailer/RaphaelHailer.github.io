@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+<img src="/images/Profile_pic.jpg" alt="Description" width="200" style="float: left; margin-right: 10px;">
+Some text beside the image without using tables.
+
 | ![Alt text](/images/Profile_pic.jpg) | This is your text beside the image. |
 |----------------------------------|-------------------------------------|
 
