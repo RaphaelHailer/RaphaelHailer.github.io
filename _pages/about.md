@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![University Logos](/images/Logos_Institutions.png){: width="300px"}
-
 I am a Senior Mechanical engineering student at the State University of Campinas (Brazil) and currently a prospective PhD student.
 
 I Finished the Cycle d'Ingénieur at ENSTA Paris in a dual-degree program, funded by the BRAFITEC excellence scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES). Received the french engineering degree, which is equivalent to the Master of Science degree, with specialization in intelligent and sustainable mobility, in addition to further advanced studies in space science and challenges, at École Polytechnique.
@@ -19,11 +17,12 @@ I am very open minded and eager to explore new areas. I have previously worked w
 
 
 # Research Interests
+My current research interests include:
 - research 1
 - research 2
 - research 3
 
-
+![University Logos](/images/Logos_Institutions.png){: width="800px"}
 
 My current research interests include:
 
