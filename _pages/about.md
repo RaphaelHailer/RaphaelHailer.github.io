@@ -14,7 +14,7 @@ Finished the Cycle d'Ingénieur at ENSTA Paris in a dual-degree program, funded 
 
 Most recently, I was a visiting student at Caltech, conducting a research project at the Jet Propulsion Laboratory (JPL), NASA's renowned space research laboratory in Pasadena, California. The project involved the development of a Monte Carlo simulator to study contaminant deposition on the Moon, using numerical simulations with the DSMC method and the SPARTA software.
 
-<img src="/images/Profile_pic.jpg" alt="Description" width="200" style="float: left; margin-right: 10px;">
+<img src="/images/Profile_pic.jpg" alt="Description" width="200" style="float: right; margin-right: 10px;">
 
 
 | ![Alt text](/images/Profile_pic.jpg) | This is your text beside the image. |
