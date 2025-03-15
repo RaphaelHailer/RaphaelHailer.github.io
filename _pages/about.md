@@ -41,13 +41,13 @@ My current research interests include:
         <img src="/images/edf-logo.png" alt="EDF" class="institution-logo">
     </a>
     <a href="https://www.inria.fr/en" target="_blank">
-        <img src="images/institut-national-de-recherche-en-informatique-et-en-automatique-inria-vector-logo.png" alt="Inria" class="institution-logo">
+        <img src="/images/institut-national-de-recherche-en-informatique-et-en-automatique-inria-vector-logo.png" alt="Inria" class="institution-logo">
     </a>
     <a href="https://ariane.group/en/" target="_blank">
-        <img src="images/LDSA-Logos-marques-accueil-ARIANE-GROUP-LOGO.jpg" alt="Ariane" class="institution-logo">
+        <img src="/images/LDSA-Logos-marques-accueil-ARIANE-GROUP-LOGO.jpg" alt="Ariane" class="institution-logo">
     </a>
     <a href="https://www.asi.it/en/" target="_blank">
-        <img src="images/Agenzia_Spaziale_Italiana_logo.png" alt="ASI" class="institution-logo">
+        <img src="/images/Agenzia_Spaziale_Italiana_logo.png" alt="ASI" class="institution-logo">
     </a>
 </div>
 
