@@ -28,8 +28,6 @@ Plase, feel free to reach out to me at raphael [dot] alves [at] ensta [dash] par
 
 # Institutions where I studied, worked or collaborated:
 
-# Institutions where I studied, worked or collaborated:
-
 <div class="institution-logos">
     <a href="https://www.unicamp.br/" target="_blank">
         <img src="/images/UNICAMP_logo.svg.png" alt="UNICAMP" class="institution-logo">
@@ -67,8 +65,8 @@ Plase, feel free to reach out to me at raphael [dot] alves [at] ensta [dash] par
     }
 
     .institution-logo {
-        width: 120px; /* Uniform width for all logos */
-        height: 120px; /* Uniform height for all logos */
+        width: 150px; /* Uniform width for all logos */
+        height: 150px; /* Uniform height for all logos */
         object-fit: contain; /* Ensures logos maintain aspect ratio without distortion */
         transition: transform 0.3s ease;
     }
