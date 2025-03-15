@@ -26,16 +26,28 @@ My current research interests include:
 
 <div class="institution-logos">
     <a href="https://www.unicamp.br/" target="_blank">
-        <img src="/path-to-your-image1.jpg" alt="UNICAMP" class="institution-logo">
+        <img src="/images/UNICAMP_logo.svg.png" alt="UNICAMP" class="institution-logo">
     </a>
     <a href="https://www.ensta-paris.fr/" target="_blank">
-        <img src="/path-to-your-image2.jpg" alt="ENSTA Paris" class="institution-logo">
+        <img src="/images/Logo_ENSTA_Paris.jpg" alt="ENSTA Paris" class="institution-logo">
     </a>
     <a href="https://www.polytechnique.edu/" target="_blank">
-        <img src="/path-to-your-image3.jpg" alt="École Polytechnique" class="institution-logo">
+        <img src="/images/POLYTECHNIQUE-IP_PARIS.png" alt="École Polytechnique" class="institution-logo">
     </a>
-    <a href="https://www.caltech.edu/" target="_blank">
-        <img src="/path-to-your-image4.jpg" alt="Caltech" class="institution-logo">
+    <a href="https://www.jpl.nasa.gov/" target="_blank">
+        <img src="/images/JPL-logo-e1533058108865.png" alt="JPL" class="institution-logo">
+    </a>
+    <a href="https://www.edf.fr/" target="_blank">
+        <img src="/images/edf-logo.png" alt="EDF" class="institution-logo">
+    </a>
+    <a href="https://www.inria.fr/en" target="_blank">
+        <img src="images/institut-national-de-recherche-en-informatique-et-en-automatique-inria-vector-logo.png" alt="Inria" class="institution-logo">
+    </a>
+    <a href="https://ariane.group/en/" target="_blank">
+        <img src="images/LDSA-Logos-marques-accueil-ARIANE-GROUP-LOGO.jpg" alt="Ariane" class="institution-logo">
+    </a>
+    <a href="https://www.asi.it/en/" target="_blank">
+        <img src="images/Agenzia_Spaziale_Italiana_logo.png" alt="ASI" class="institution-logo">
     </a>
 </div>
 
