@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Raphael A. Hailer Academic Website"
+title                    : "Raphael Alves Hailer"
 title_separator          : "-"
 name                     : &name "Raphael Alves Hailer"
 description              : &description "personal description"
@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0009-0000-1448-1464"
   semantic         : # URL
   pubmed           : 
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Raphael-Alves-Hailer?ev=hdr_xprf" # URL
   scopus           : # URL
 
   # Repositories and software development
