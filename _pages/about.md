@@ -16,8 +16,7 @@ Recently, I received the Tech Fellowship from Fundação Estudar (Brazil) to con
 I am very open minded and eager to explore new areas. I have previously worked with Uncertainty Quantification (UQ), Computational Fluid Dynamics (CFD), Optimization, Finite Elements Analysis (FEA), Monte Carlo methods and Direct Simulation Monte Carlo (DSMC). I have great experience developing numerical solvers and using commercial and open-source softwares. More about my projects can be read in the Portfolio section.
 
 
-# Research Interests
-My current research interests include:
+## Research Interests
 - Computational Fluid Dynamics
 - Supersonic and Hypersonic flows
 - Rarefied Gas Dynamics
