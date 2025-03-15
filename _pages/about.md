@@ -7,19 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-Senior Mechanical engineering student at the State University of Campinas (Brazil) and passionate about the aerospace sector. Worked as leader of the structures and aerodynamics department of the Antares aerospace design team (UNICAMP) and coordinator of rocket projects, from 2019 to 2022.
+I am a Senior Mechanical engineering student at the State University of Campinas (Brazil) and passionate about the aerospace sector.
 
 Finished the Cycle d'Ingénieur at ENSTA Paris in a dual-degree program, funded by the BRAFITEC excellence scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES). Received the french engineering degree, which is equivalent to the Master of Science degree, with specialization in intelligent and sustainable mobility, in addition to further advanced studies in space science and challenges, at École Polytechnique.
 
 Most recently, I was a visiting student at Caltech, conducting a research project at the Jet Propulsion Laboratory (JPL), NASA's renowned space research laboratory in Pasadena, California. The project involved the development of a Monte Carlo simulator to study contaminant deposition on the Moon, using numerical simulations with the DSMC method and the SPARTA software.
 
-<div style="display: flex; align-items: center; justify-content: flex-end;">
-  <p style="margin-right: 10px;">This is some text on the left, and the image is on the right.</p>
-  <img src="/images/Profile_pic.jpg" alt="Description" width="200" style="float: right; margin-left: 10px;">
-</div>
-This is some text on the left.
+![Illustration of combining vision and language modalities](//images/Profile_pic.jpg){: .align-right width="300px"}
+
+## Research Interests
+- research 1
+- research 2
+- research 3
 
 
+
+My current research interests include:
+
+- [Research Interest 1]
+- [Research Interest 2]
+- [Research Interest 3]
+- [Research Interest 4]
+
+I am particularly interested in [expand on one or two of the most significant research areas].
+
+## Contact
+
+Feel free to reach out to me at [Your Contact Information or Link to Contact Page].
 
 | ![Alt text](/images/Profile_pic.jpg) | This is your text beside the image. |
 |----------------------------------|-------------------------------------|
