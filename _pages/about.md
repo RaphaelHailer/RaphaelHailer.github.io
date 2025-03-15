@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Mechanical engineering student at the State University of Campinas (Brazil) and passionate about the aerospace sector.
+![University Logos](/images/Logos_Institutions.png){: width="300px"}
 
-Finished the Cycle d'Ingénieur at ENSTA Paris in a dual-degree program, funded by the BRAFITEC excellence scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES). Received the french engineering degree, which is equivalent to the Master of Science degree, with specialization in intelligent and sustainable mobility, in addition to further advanced studies in space science and challenges, at École Polytechnique.
+I am a Senior Mechanical engineering student at the State University of Campinas (Brazil) and currently a prospective PhD student.
 
-Most recently, I was a visiting student at Caltech, conducting a research project at the Jet Propulsion Laboratory (JPL), NASA's renowned space research laboratory in Pasadena, California. The project involved the development of a Monte Carlo simulator to study contaminant deposition on the Moon, using numerical simulations with the DSMC method and the SPARTA software.
+I Finished the Cycle d'Ingénieur at ENSTA Paris in a dual-degree program, funded by the BRAFITEC excellence scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES). Received the french engineering degree, which is equivalent to the Master of Science degree, with specialization in intelligent and sustainable mobility, in addition to further advanced studies in space science and challenges, at École Polytechnique.
 
-![Illustration of combining vision and language modalities](/images/Profile_pic.jpg){: .align-right width="300px"}
+Most recently, I was funded with the Tech Fellowship from Fundação Estudar (Brazil) to conduct a research project as visiting student researcher at the Jet Propulsion Laboratory (JPL), NASA's renowned space research laboratory in Pasadena, California. The project involved the development of a Monte Carlo simulator to study contaminant deposition on the Moon, using numerical simulations with the DSMC method and the SPARTA software.
 
-## Research Interests
+I am very open minded and eager to explore new areas. I have previously worked with Uncertainty Quantification (UQ), CFD, Optimization, Finite Elements Analysis (FEA), Monte Carlo methods and Direct Simulation Monte Carlo (DSMC), and I have experience developing numerical solvers and using commercial and open-source softwares. More about my projects can be read in the Portfolio section.
+
+
+# Research Interests
 - research 1
 - research 2
 - research 3
@@ -33,7 +36,7 @@ I am particularly interested in [expand on one or two of the most significant re
 
 ## Contact
 
-Feel free to reach out to me at [Your Contact Information or Link to Contact Page].
+Plase, feel free to reach out to me at raphael [dot] alves [at] ensta [dash] paris [dot] fr or at r223852 [at] dac [dot] unicamp [dot] br
 
 | ![Alt text](/images/Profile_pic.jpg) | This is your text beside the image. |
 |----------------------------------|-------------------------------------|
