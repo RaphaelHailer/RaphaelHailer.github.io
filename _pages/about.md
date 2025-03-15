@@ -22,6 +22,44 @@ My current research interests include:
 - research 2
 - research 3
 
+# Institutions where I studied, worked or collaborated:
+
+<div class="institution-logos">
+    <a href="https://www.unicamp.br/" target="_blank">
+        <img src="/path-to-your-image1.jpg" alt="UNICAMP" class="institution-logo">
+    </a>
+    <a href="https://www.ensta-paris.fr/" target="_blank">
+        <img src="/path-to-your-image2.jpg" alt="ENSTA Paris" class="institution-logo">
+    </a>
+    <a href="https://www.polytechnique.edu/" target="_blank">
+        <img src="/path-to-your-image3.jpg" alt="École Polytechnique" class="institution-logo">
+    </a>
+    <a href="https://www.caltech.edu/" target="_blank">
+        <img src="/path-to-your-image4.jpg" alt="Caltech" class="institution-logo">
+    </a>
+</div>
+
+<style>
+    .institution-logos {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .institution-logo {
+        width: 150px; /* Adjust the width of the logos */
+        height: auto;
+        transition: transform 0.3s ease;
+    }
+
+    .institution-logo:hover {
+        transform: scale(1.1); /* Adds zoom effect when hovered */
+    }
+</style>
+
+
 ![University Logos](/images/Logos_Institutions.png){: width="800px"}
 
 My current research interests include:
