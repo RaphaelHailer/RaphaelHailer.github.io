@@ -1,4 +1,11 @@
-# Background
+---
+permalink: /
+title: About me
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Senior Mechanical engineering student at the State University of Campinas (Brazil) and passionate about the aerospace sector. Worked as leader of the structures and aerodynamics department of the Antares aerospace design team (UNICAMP) and coordinator of rocket projects, from 2019 to 2022.
 
