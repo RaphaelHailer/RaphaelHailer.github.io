@@ -9,18 +9,19 @@ redirect_from:
 
 I am a Senior Mechanical engineering student at the State University of Campinas (Brazil) and currently a prospective PhD student.
 
-I Finished the Cycle d'Ingénieur at ENSTA Paris in a dual-degree program, funded by the BRAFITEC excellence scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES). Received the french engineering degree, which is equivalent to the Master of Science degree, with specialization in intelligent and sustainable mobility, in addition to further advanced studies in space science and challenges, at École Polytechnique.
+I completed the Cycle d'Ingénieur at ENSTA Paris in a dual-degree program, funded by the BRAFITEC excellence scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES). I have the french engineering degree equivalent to the Master of Science with a focus on intelligent and sustainable mobility. I have also pursued advanced studies in space science and challenges, at École Polytechnique.
 
-Most recently, I was funded with the Tech Fellowship from Fundação Estudar (Brazil) to conduct a research project as visiting student researcher at the Jet Propulsion Laboratory (JPL), NASA's renowned space research laboratory in Pasadena, California. The project involved the development of a Monte Carlo simulator to study contaminant deposition on the Moon, using numerical simulations with the DSMC method and the SPARTA software.
+Recently, I received the Tech Fellowship from Fundação Estudar (Brazil) to conduct research as visiting student at the Jet Propulsion Laboratory (JPL), NASA.
 
-I am very open minded and eager to explore new areas. I have previously worked with Uncertainty Quantification (UQ), CFD, Optimization, Finite Elements Analysis (FEA), Monte Carlo methods and Direct Simulation Monte Carlo (DSMC), and I have experience developing numerical solvers and using commercial and open-source softwares. More about my projects can be read in the Portfolio section.
+I am very open minded and eager to explore new areas. I have previously worked with Uncertainty Quantification (UQ), Computational Fluid Dynamics (CFD), Optimization, Finite Elements Analysis (FEA), Monte Carlo methods and Direct Simulation Monte Carlo (DSMC). I have great experience developing numerical solvers and using commercial and open-source softwares. More about my projects can be read in the Portfolio section.
 
 
 # Research Interests
 My current research interests include:
-- research 1
-- research 2
-- research 3
+- Computational Fluid Dynamics
+- Supersonic and Hypersonic flows
+- Rarefied Gas Dynamics
+- Planetary Science
 
 ## Contact
 
