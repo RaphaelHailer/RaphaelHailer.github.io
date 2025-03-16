@@ -6,7 +6,7 @@ and to formnulate a stochastic multi-objective optimization problem to determine
 the best sampling size for X-ray micro-CT experimental campaigns <br/><img src='/images/image_puma_inria.png'>"
 
 collection: portfolio
-slidesurl: 
+slidesurl: '/files/Final-presentation-Research_PuMA.pdf'
 paperurl: '/files/Report - PRe - Raphael ALVES HAILER - Final Version EN.pdf'
 ---
 
