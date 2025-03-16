@@ -1,6 +1,6 @@
 ---
 title: "Non-Intrusive Polynomial Chaos Expansion Applied to Full-Order Stochastic CFD"
-excerpt: "Research developed in collaboration with Ariane group while studying at École Polytechnique. Its objective is to explore the implementation of the Polynomial Chaos Expansion (PCE) to perform an Uncertainty Quantification (UQ) study on two CFD benchmark problems <br/><img src='/images/PCE_airfoil_results.png'>""
+excerpt: "Research developed in collaboration with Ariane group while studying at École Polytechnique. Its objective is to explore the implementation of the Polynomial Chaos Expansion (PCE) to perform an Uncertainty Quantification (UQ) study on two CFD benchmark problems <br/><img src='/images/PCE_airfoil_results.png'>"
 
 collection: portfolio
 slidesurl: '/files/Final_Presentation_Stochastic_CFD-Raphael_Alves_Hailer.pdf'
