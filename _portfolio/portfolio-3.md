@@ -22,7 +22,8 @@ statistical evaluations.
 Keywords: Uncertainty quantification, Surrogate model, Predictive model, Polynomial chaos, 
 Stochastic, CFD, OpenFOAM, Full-Order model, NACA0012, Lid-driven cavity problem.
 
-<br/><img src='/images/PCE_airfoil_results.png'>"
+<br/><img src='/images/PCE_airfoil_results.png'>
+
 
 
 
