@@ -7,6 +7,7 @@ finite elements analysis in the European INCEFA-SCALE project <br/><img src='/im
 collection: portfolio
 slidesurl: '/files/Final-presentation-PFE_EDF_Raphael-Alves-Hailer.pdf'
 paperurl: '/files/Rapport_PFE_-_Raphael_ALVES_HAILER_-_FINAL_VERSION.pdf'
+citation: 
 ---
 
 Abstract:
