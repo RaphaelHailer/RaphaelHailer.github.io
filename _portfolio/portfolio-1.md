@@ -27,6 +27,6 @@ Shadowed Regions
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <!-- Second part: Left and right images with different sizes -->
-    <img src="/images/example_4_particles.png" style="width: 40%; height: auto; margin-right: 10px;" alt="Left Image">
-    <img src="/images/whole_lunar_day.png" style="width: 50%; height: auto;" alt="Right Image">
+    <img src="/images/example_4_particles.png" style="width: 30%; height: auto; margin-right: 10px;" alt="Left Image">
+    <img src="/images/whole_lunar_day.png" style="width: 60%; height: auto;" alt="Right Image">
 </div>
