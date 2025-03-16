@@ -26,6 +26,6 @@ Keywords: Molecular Transport, Monte Carlo, DSMC, Contamination Control, Permane
 Shadowed Regions
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/example_4_particles.png" width="60%">
-    <img src="/images/half_lunar_day.png" width="30%">
+    <img src="/images/example_4_particles.png" width="50%">
+    <img src="/images/whole_lunar_day.png" width="50%">
 </div>
