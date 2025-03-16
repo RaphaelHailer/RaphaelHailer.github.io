@@ -20,6 +20,7 @@ I am very open minded and eager to explore new areas. I have previously worked w
 - Computational Fluid Dynamics
 - Supersonic and Hypersonic flows
 - Rarefied Gas Dynamics
+- Numerical Methods
 - Planetary Science
 
 ## Contact
