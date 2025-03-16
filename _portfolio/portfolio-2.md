@@ -5,6 +5,8 @@ excerpt: "Research developed as my final studies internship, at Électricité de
 finite elements analysis in the European INCEFA-SCALE project <br/><img src='/images/summarize_EDF.png'>"
 
 collection: portfolio
+slidesurl: '/files/Final-presentation-PFE_EDF_Raphael-Alves-Hailer.pdf'
+paperurl: '/files/Rapport_PFE_-_Raphael_ALVES_HAILER_-_FINAL_VERSION.pdf'
 ---
 
 Abstract:
@@ -22,8 +24,6 @@ Keywords: Finite Element Analysis, Evolutionary Algorithms, NSGA-II, Fatigue, En
 
 <br/><img src='/images/summarize_EDF.png'>"
 
-[View the Full Report](/files/Rapport_PFE_-_Raphael_ALVES_HAILER_-_FINAL_VERSION.pdf)
 
-[View the Presentation](/files/Final-presentation-PFE_EDF_Raphael-Alves-Hailer.pdf)
 
 
