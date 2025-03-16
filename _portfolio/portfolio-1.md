@@ -1,7 +1,7 @@
 ---
 title: Free Molecular Monte Carlo Model for Lunar Contaminant Transport and Deposition in Permanently Shadowed Regions"
 excerpt: "Research developed under the supervision of William A. Hoey, John M. Alred and Carlos E. Soares at the Jet Propulsion Laboratory (JPL), NASA
-<br/><img src='/images/example_4_particles.png'>"
+<br/><img src='/images/example_4_particles.png' width="200">"
 collection: portfolio
 ---
 
@@ -26,4 +26,7 @@ applications for planetary protection missions in the future.
 Keywords: Molecular Transport, Monte Carlo, DSMC, Contamination Control, Permanently
 Shadowed Regions
 
-<br/><img src='/images/jvsrp_content.png'>
+<div style="display: flex; justify-content: center;">
+    <img src="/images/example_4_particles.png" width="45%">
+    <img src="/images/half_lunar_day.png" width="45%">
+</div>
