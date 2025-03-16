@@ -1,6 +1,6 @@
 ---
 title: "Free Molecular Monte Carlo Model for Lunar Contaminant Transport and Deposition in Permanently Shadowed Regions"
-excerpt: "Research developed under the supervision of William A. Hoey, John M. Alred and Carlos E. Soares at the Jet Propulsion Laboratory (JPL), NASA <br/><img src='/images/example_4_particles.png'>"
+excerpt: "Research developed under the supervision of William A. Hoey, John M. Alred and Carlos E. Soares at the Jet Propulsion Laboratory (JPL), NASA <br/><img src='/images/temperature_lunar_surface.png'>"
 
 collection: portfolio
 ---
