@@ -24,6 +24,6 @@ Keywords: Finite Element Analysis, Evolutionary Algorithms, NSGA-II, Fatigue, En
 
 [View the Full Report](/files/Rapport_PFE_-_Raphael_ALVES_HAILER_-_FINAL_VERSION.pdf)
 
-[View the Presentation](/files/Final-presentation-PFE_EDF_Raphael-Alves-Hailer.pptx)
+[View the Presentation](/files/Final-presentation-PFE_EDF_Raphael-Alves-Hailer.pdf)
 
 
