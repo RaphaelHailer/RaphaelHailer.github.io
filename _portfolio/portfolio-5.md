@@ -19,7 +19,7 @@ Moreover, I was also heavily involved in the manufacturing of the rocket engines
 FUNCATE program to develop a test base for solid rocket engines.
 
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src="/images/engine_test.jpg" alt="Engine Test" width="300">
+    <img src="/images/engine_test.jpg" alt="Engine Test" width="600">
     <img src="/images/GIF_ANHANGA.gif" alt="Animated GIF" width="300">
 </div>
 
