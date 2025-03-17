@@ -42,6 +42,9 @@ Plase, feel free to reach out to me at raphael [dot] alves [at] ensta [dash] par
     <a href="https://www.jpl.nasa.gov/" target="_blank">
         <img src="/images/Jet_Propulsion_Laboratory_logo.svg.png" alt="JPL" class="institution-logo">
     </a>
+    <a href="https://embraer.com/" target="_blank">
+        <img src="/images/embraer_logo.jpg" alt="ASI" class="institution-logo">
+    </a>
     <a href="https://www.edf.fr/" target="_blank">
         <img src="/images/edf-logo.png" alt="EDF" class="institution-logo">
     </a>
