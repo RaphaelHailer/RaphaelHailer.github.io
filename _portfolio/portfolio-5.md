@@ -1,7 +1,7 @@
 ---
 title: "Antares Aerospace Design Team (Unicamp)"
 excerpt: "Here I display and explain about my time at Antares, showcasing some of the work done and highlighting the accomplishements
-while working as leader of the aerodynamics and structures department <br/><img src='/images/Antares_logo.jpg'>"
+while working as leader of the aerodynamics and structures department <br/><img src='/images/Antares_logo.jpg' width="600">"
 
 collection: portfolio
 slidesurl: 
