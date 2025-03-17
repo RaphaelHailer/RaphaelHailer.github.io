@@ -18,10 +18,10 @@ During my time at Antares, I won the second and third place awards in the Latin 
 Moreover, I was also heavily involved in the manufacturing of the rocket engines at the time, and even received funding from the Brazilian Space Agency (AEB) through the
 FUNCATE program to develop a test base for solid rocket engines.
 
-
-<br/><img src='/images/engine_test.jpg'> 
-<br/><img src='/images/engine_test.jpg'>
-<br/><img src="/images/GIF_ANHANGA.gif" alt="Animated GIF">
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="/images/engine_test.jpg" alt="Engine Test" width="300">
+    <img src="/images/GIF_ANHANGA.gif" alt="Animated GIF" width="300">
+</div>
 
 
 
