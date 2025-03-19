@@ -3,6 +3,7 @@ title: "Free Molecular Monte Carlo Model for Lunar Contaminant Transport and Dep
 excerpt: "Research developed under the supervision of William A. Hoey, John M. Alred and Carlos E. Soares at the Jet Propulsion Laboratory (JPL), NASA <br/><img src='/images/temperature_lunar_surface.png'>"
 
 collection: portfolio
+slidesurl: '/files/JVSRP-Final-Raphael-Alves-Hailer-URS.pdf'
 ---
 
 Abstract:
