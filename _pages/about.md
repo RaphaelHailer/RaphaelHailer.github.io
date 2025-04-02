@@ -17,11 +17,11 @@ I am very open minded and eager to explore new areas. I have previously worked w
 
 
 ## Research Interests
+- Planetary Science
 - Computational Fluid Dynamics
 - Supersonic and Hypersonic flows
 - Rarefied Gas Dynamics
 - Numerical Simulations
-- Planetary Science
 
 ## Contact
 
