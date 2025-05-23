@@ -44,7 +44,7 @@ Plase, feel free to reach out to me at raphael [dot] alves [at] ensta [dash] par
     <a href="https://embraer.com/" target="_blank">
         <img src="/images/embraer_logo.jpg" alt="ASI" class="institution-logo">
     </a>
-    <a href="https://www.edf.fr/" target="_blank">
+    <a href="https://www.edf.fr/en" target="_blank">
         <img src="/images/edf-logo.png" alt="EDF" class="institution-logo">
     </a>
     <a href="https://www.inria.fr/en" target="_blank">
