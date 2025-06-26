@@ -19,6 +19,7 @@ I am very open minded and eager to explore new areas. I have previously worked w
 ## Research Interests
 - Computational Fluid Dynamics
 - Rarefied Gas Dynamics
+- Plasma
 - Planetary Science
 - Numerical Simulations
 
