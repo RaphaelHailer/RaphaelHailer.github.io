@@ -25,7 +25,7 @@ I am very open minded and eager to explore new areas. I have previously worked w
 
 ## Contact
 
-Plase, feel free to reach out to me at raphael [dot] alves [at] ensta [dash] paris [dot] fr or at r223852 [at] dac [dot] unicamp [dot] br
+Please, feel free to reach out to me at raphael [dot] alves [at] ensta [dash] paris [dot] fr or at r223852 [at] dac [dot] unicamp [dot] br
 
 # Institutions where I studied, worked or collaborated:
 
