@@ -23,11 +23,11 @@ repository               : "raphaelhailer/raphaelhailer.github.io/"
 author:
   # Biographic information
   avatar           : "Profile_pic.jpg"
-  name             : "Raphael Alves Hailer"
+  name             : "Raphael Nakamine Alves Hailer"
   pronouns         : # example: "she/her"  
-  bio              : "Prospective PhD Student"
-  location         : "Brazil"
-  employer         : "Unicamp and ENSTA Paris"
+  bio              : "Ph.D. Student"
+  location         : "Austin, TX"
+  employer         : "University of Texas at Austin"
   uri              : # URL
   email            : "raphael.alves@ensta-paris.fr" 
 
